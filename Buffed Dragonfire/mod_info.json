@@ -1,0 +1,8 @@
+{
+    "id": "buffeddragonfire",
+    "name": "Buffed Dragonfire",
+    "author": "NaIM",
+    "version": { "major":"0", "minor": "0", "patch": "1" },
+    "description": "A simple mod that buffs both Dragonfire launchers by increasing the base amount of ammo they hold by 100 percent",
+    "gameVersion": "0.97a"
+}
